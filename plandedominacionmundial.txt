@@ -1,0 +1,4 @@
+1.- Crear un spider que explore la web
+2.- indexar los datos obtenidos
+3.- crear un buscador que use esos datos 
+4.- conseguir que todo el mundo use ese buscador
